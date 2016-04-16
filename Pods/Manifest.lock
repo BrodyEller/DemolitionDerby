@@ -1,0 +1,10 @@
+PODS:
+  - CDJoystick (0.1.0)
+
+DEPENDENCIES:
+  - CDJoystick (~> 0.1)
+
+SPEC CHECKSUMS:
+  CDJoystick: 3951e10f6d45deee220a75c950dffe8b42a4a858
+
+COCOAPODS: 0.39.0
